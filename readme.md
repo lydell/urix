@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/lydell/urix.png?branch=master)](https://travis-ci.org/lydell/urix)
-
-Overview
+Overview [![Build Status](https://travis-ci.org/lydell/urix.png?branch=master)](https://travis-ci.org/lydell/urix)
 ========
 
 Makes Windows-style paths more unix and URI friendly. Useful if you work with
