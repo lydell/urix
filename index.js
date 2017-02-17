@@ -1,9 +1,9 @@
 // Copyright 2014 Simon Lydell
 // X11 (“MIT”) Licensed. (See LICENSE.)
 
-var path = require("path")
-
 "use strict"
+
+var path = require("path")
 
 function urix(aPath) {
   if (path.sep === "\\") {
